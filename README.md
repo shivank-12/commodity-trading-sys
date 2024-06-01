@@ -1,0 +1,1 @@
+This online web application is generated to provide intelligent trading for commodity market.This online web application will provide live rate of commodity.user can also purchase and sell commodity online.account is maintained automatically.Download Online Intelligent commodity trading system in Asp.Net with complete source code and report.
